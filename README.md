@@ -4,4 +4,9 @@
    - somar.html
    - stlsoma.css
    - funcsoma.js
+   
+   
    A cauculadora faz operações de soma, apresentado o resultado da soma.
+
+  A medida que for aprendendo mais, irei atualizar o projeto.
+  Aberto a sugestões!
