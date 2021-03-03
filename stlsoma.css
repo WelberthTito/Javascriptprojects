@@ -1,0 +1,27 @@
+div
+{   
+    background-color:black;
+    color: floralwhite;
+    width: fit-content;                               
+    height: fit-content;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 2px black;
+}
+input.but1
+{ 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: inline-block; 
+    background-color: coral;
+    padding: 4px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-shadow: 2px 2px 2px rgb(51, 44, 44);
+}
+.but1:active
+{
+     box-shadow: 0,0,0,0,1 #930), inset: 3, 3 , 3 #930;
+    transform: translate(3px, 3px);
+}
+
+
